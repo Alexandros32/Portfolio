@@ -1,12 +1,16 @@
+.navbar.navbar-expand-lg {
+  background-color: khaki;
+}
+
 h1,h2 {
   font-family: Uchen serif;
   font-size: 35px;
   text-align: center;
+  color: rgb(123, 87, 221);
 }
 
 body {
-  background-color:honeydew;
-  color:blueviolet;
+  background-color:beige;
 }
 
 img {
