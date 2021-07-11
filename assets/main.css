@@ -24,4 +24,7 @@ img {
   align-content:center;
 }
 
-
+div.row {
+  justify-content:center;
+  
+}
