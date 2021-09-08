@@ -1,8 +1,16 @@
-h1,h2 {
+h1 {
   font-family: Uchen serif;
   font-size: 35px;
   text-align: center;
   color:rgb(88, 7, 163);
+}
+
+h2 {
+  font-family: Uchen serif;
+  font-size: 35px;
+  text-align: center;
+  color:rgb(88, 7, 163);
+  background-color:lightgoldenrodyellow;
 }
 
 body {
@@ -21,7 +29,8 @@ img {
 }
 
 div.row {
-  justify-content:center;  
+  justify-content:center;
+
 }
 
 #page-container {
