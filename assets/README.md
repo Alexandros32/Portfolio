@@ -38,29 +38,28 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 
 #### About
 
-- **Introduction about me** - You can see informations about myself and my job title.
-- **Image** - You can see an image of me for further use of my employers. 
+- **About Me** - You can see informations about myself and my job title.
+- **Image Of Me** - You can see an image of me for further use of my employers. 
 
 #### Skills
 
-- **Skills** - You can see information about my skills.
+- **My Skills** - You can see information about my skills.
 
 #### Portfolio
 
-- **Projects** - Right now i haven't submit something but as soon as possible i will submit my new projects.
+- **My Projects** - Right now i haven't submit something but as soon as possible i will submit my new projects.
 
 #### Experience
 
-- **Experience** - It's the places that i have worked and gain my experience until now.
+- **My Experience** - It's the places that i have worked and gain my experience until now.
 
 #### Education
 
-- **Education** - It's my degrees,my studies and all the certificates that i have until now.
+- **My Education** - It's my degrees,my studies and all the certificates that i have until now.
 
 #### Contact
 
-
-
+- **Contact Me** - I have my contact details for anyone that is interesting to contact me and also a form to complete and submit if someone wants to contact me.
 
 Features Left to Implement
 EΔΩ ΜΠΟΡΕΙΣ ΝΑ ΒΑΛΕΙΣ LINKS GIA SOCIAL MEDIA
