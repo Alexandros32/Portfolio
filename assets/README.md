@@ -29,12 +29,12 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 - **Hamburger button** - Clicking the hamburger button triggers a full screen overlay menu containing the navigation links to all pages on my website. The user can click the links to navigate to the relevant webpage.
 - **Full screen overlay menu** - The full screen overlay menu contains navigation links which redirect the user to the different pages of my website.
 - **Navigation links** - Allows users to navigate around my website by clicking each navigation link,which redirects them to the relevant webpage.
-- **Submit button** - Clicking the submit button after the user has put his information in the contact details allows to the user to submit his information and contact with me.
+- **Submit button** -Clicking the submit button allows users to contact me by completing the form and submitting their details. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
 
 
 #### All Pages (exluding index.html)
 
-
+- **Submit button** - Clicking the submit button allows users to contact me by completing the form and submitting their details. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
 
 #### About
 
