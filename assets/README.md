@@ -51,6 +51,7 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 
 #### Experience
 
+- **Experience** - It's the places that i have worked and gain my experience until now.
 
 #### Education
 
