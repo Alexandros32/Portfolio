@@ -9,9 +9,9 @@ The page is designed to summarise all my academic, professional and personal ach
 
 ### USER STORIES
 
-•	As a potential employer I might also require a cover letter and a completed application form from you.
-•	As your professional mentor I would also like to see more projects in your portfolio in the future
-•	As a potential employer I want to be able to see  your social media links  in your CV so that I can learn more about you.
+- As a potential employer I might also require a cover letter and a completed application form from you.
+- As your professional mentor I would also like to see more projects in your portfolio in the future.
+- As a potential employer I want to be able to see  your social media links  in your CV so that I can learn more about you.
 
 BUTTONS
 TOGLER ICON 
