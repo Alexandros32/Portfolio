@@ -55,6 +55,7 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 
 #### Education
 
+- **Education** - It's my degrees,my studies and all the certificates that i have until now.
 
 #### Contact
 
