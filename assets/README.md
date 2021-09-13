@@ -80,3 +80,18 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
     - I've used **Git** as a version control system to regularly add and commit changes made to project in Cloud9, before pushing them to GitHub.
 - [**GitHub**](https://github.com/)
     - I've used **GitHub** as a remote repository to push and store the committed changes to my project from Git. I've also used GitHub pages to deploy my website in a live environment.
+
+## Testing
+
+### Testing User Stories
+
+I used my user stories and documented each of the steps that each user would need to accomplish what they have stated. Below is the link to the document that contains this information:
+
+### Responsive Testing
+I used Google Chrome's Development tools to constantly test each change that I made to my website and to ensure that it appeared in the desired way on different screen sizes. I also tested my website on different screen sizes (mobile, tablet and desktop) to ensure it appeared in the desired way on different devices.
+To test my whole website, I went through each page, feature by feature, and documented the results on a spreadsheet. The spreadsheet also documents any responsive features and confirms that they work and appear as intended on different screen sizes. The link to the spreadsheet it below:
+
+
+### HTML and CSS Validation
+I used the [W3C HTML Validator tool](https://validator.w3.org/#validate_by_input) to validate my HTML code.
+I used the [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate my CSS code.
