@@ -20,9 +20,31 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 
 
 
+## Features
+
+### Existing Features
+
+#### All Pages
+
+- **Hamburger button** - Clicking the hamburger button triggers a full screen overlay menu containing the navigation links to all pages on my website. The user can click the links to navigate to the relevant webpage.
+- **Full screen overlay menu** - The full screen overlay menu contains navigation links which redirect the user to the different pages of my website.
+- **Navigation links** - Allows users to navigate around my website by clicking each navigation link,which redirects them to the relevant webpage.
+
+#### All Pages (exluding index.html)
+
 BUTTONS
 TOGLER ICON 
 SUBMIT 
+
+#### About
+#### Skills
+#### Portfolio
+#### Experience
+#### Education
+#### Contact
+
+
+
 
 Features Left to Implement
 EΔΩ ΜΠΟΡΕΙΣ ΝΑ ΒΑΛΕΙΣ LINKS GIA SOCIAL MEDIA
