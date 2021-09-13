@@ -38,7 +38,8 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 
 #### About
 
-
+- **Introduction about me** - You can see informations about myself and my job title.
+- **Image** - You can see an image of me for further use of my employers. 
 
 #### Skills
 
