@@ -72,6 +72,8 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
     - The project uses **CSS3** to add custom styles to the elements and content of my website.
 - [**Bootstrap v5.1**](https://getbootstrap.com/)
     - The project uses **Bootstrap v5.1** to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
+ [**jQuery**](https://jquery.com)
+    - The project uses **jQuery** to simplify DOM manipulation. This is the standard jQuery that is built with Bootstrap components.
 - [**Google Fonts**](https://fonts.google.com/)
     - The project uses **Google Fonts** to style the text and suit my needs.
 - [**Visual Studio Code**](https://code.visualstudio.com/)
@@ -88,10 +90,10 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 I used my user stories and documented each of the steps that each user would need to accomplish what they have stated. Below is the link to the document that contains this information:
 
 ### Responsive Testing
-I used Google Chrome's Development tools to constantly test each change that I made to my website and to ensure that it appeared in the desired way on different screen sizes. I also tested my website on different screen sizes (mobile, tablet and desktop) to ensure it appeared in the desired way on different devices.
-To test my whole website, I went through each page, feature by feature, and documented the results on a spreadsheet. The spreadsheet also documents any responsive features and confirms that they work and appear as intended on different screen sizes. The link to the spreadsheet it below:
 
+I used Google Chrome's Development tools to constantly test each change that I made to my website and to ensure that it appeared in the desired way on different screen sizes. I also tested my website on different screen sizes (mobile, tablet and desktop) to ensure it appeared in the desired way on different devices.
 
 ### HTML and CSS Validation
+
 I used the [W3C HTML Validator tool](https://validator.w3.org/#validate_by_input) to validate my HTML code.
 I used the [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate my CSS code.
