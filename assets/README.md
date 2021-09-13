@@ -13,6 +13,13 @@ The page is designed to summarise all my academic, professional and personal ach
 - As your professional mentor I would also like to see more projects in your portfolio in the future.
 - As a potential employer I want to be able to see  your social media links  in your CV so that I can learn more about you.
 
+
+### WIREFRAMES
+
+I drew my wireframe using Balsamiq.I have done one wireframe to show my consideration of how to make my website responsive.The link to the file are below:
+
+
+
 BUTTONS
 TOGLER ICON 
 SUBMIT 
