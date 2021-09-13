@@ -6,13 +6,11 @@ This is a website that I created for my CV and Portfolio. My website will be use
 
 The page is designed to summarise all my academic, professional and personal achievements in order to entice or interest a hiring manager when applying for a new job opportunity. At the end of the page there is a direct possibility to contact me
 
-
 ### USER STORIES
 
 - As a potential employer I might also require a cover letter and a completed application form from you.
 - As your professional mentor I would also like to see more projects in your portfolio in the future.
 - As a potential employer I want to be able to see  your social media links  in your CV so that I can learn more about you.
-
 
 ### WIREFRAMES
 
@@ -30,7 +28,6 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 - **Full screen overlay menu** - The full screen overlay menu contains navigation links which redirect the user to the different pages of my website.
 - **Navigation links** - Allows users to navigate around my website by clicking each navigation link,which redirects them to the relevant webpage.
 - **Submit button** -Clicking the submit button allows users to contact me by completing the form and submitting their details. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
-
 
 #### All Pages (exluding index.html)
 
@@ -61,5 +58,6 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 
 - **Contact Me** - I have my contact details for anyone that is interesting to contact me and also a form to complete and submit if someone wants to contact me.
 
-Features Left to Implement
-EΔΩ ΜΠΟΡΕΙΣ ΝΑ ΒΑΛΕΙΣ LINKS GIA SOCIAL MEDIA
+### Features Left to Implement
+
+- **Linkedin** - Once i create a linkedin acount i will add it to my CV&Portfolio.
