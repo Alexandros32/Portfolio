@@ -43,6 +43,7 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 
 #### Skills
 
+- **Skills** - You can see information about my skills.
 
 #### Portfolio
 
