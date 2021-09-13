@@ -71,15 +71,13 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 - [**CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS)
     - The project uses **CSS3** to add custom styles to the elements and content of my website.
 - [**Bootstrap v5.1**](https://getbootstrap.com/)
-    - The project uses **Bootstrap v5.1** to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
- [**jQuery**](https://jquery.com)
-    - The project uses **jQuery** to simplify DOM manipulation. This is the standard jQuery that is built with Bootstrap components.
+    - The project uses **Bootstrap v5.1** to add a responsive grid system, prebuilt components and Bootstrap styles to my website, before adding my custom styles.
 - [**Google Fonts**](https://fonts.google.com/)
     - The project uses **Google Fonts** to style the text and suit my needs.
 - [**Visual Studio Code**](https://code.visualstudio.com/)
     - I've used **Visual Studio Code** as the development environment to write the code for my website.
 - [**Git**](https://git-scm.com/)
-    - I've used **Git** as a version control system to regularly add and commit changes made to project in Cloud9, before pushing them to GitHub.
+    - I've used **Git** as a version control system to regularly add and commit changes made to project in Visual Studio Code, before pushing them to GitHub.
 - [**GitHub**](https://github.com/)
     - I've used **GitHub** as a remote repository to push and store the committed changes to my project from Git. I've also used GitHub pages to deploy my website in a live environment.
 
@@ -87,7 +85,7 @@ I drew my wireframes using Balsamiq.I have done two wireframes for each page to 
 
 ### Testing User Stories
 
-I used my user stories and documented each of the steps that each user would need to accomplish what they have stated. Below is the link to the document that contains this information:
+Empty
 
 ### Responsive Testing
 
