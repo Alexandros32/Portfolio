@@ -92,7 +92,8 @@ Empty
 I used Google Chrome's Development tools to constantly test each change that I made to my website and to ensure that it appeared in the desired way on different screen sizes. I also tested my website on different screen sizes (mobile, tablet and desktop) to ensure it appeared in the desired way on different devices.
 I also used https://search.google.com/test/mobile-friendly to test if it's mobile friendly.
 
-### HTML and CSS Validation
+### HTML,CSS and Dirty Markup Validation
 
 I used the [W3C HTML Validator tool](https://validator.w3.org/#validate_by_input) to validate my HTML code.
 I used the [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate my CSS code.
+I used the [Dirty Markup:HTML Beautifier](https://www.10bestdesign.com/dirtymarkup/) to check my HTML code for any mistakes.
