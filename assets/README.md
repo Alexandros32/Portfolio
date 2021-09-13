@@ -90,6 +90,7 @@ Empty
 ### Responsive Testing
 
 I used Google Chrome's Development tools to constantly test each change that I made to my website and to ensure that it appeared in the desired way on different screen sizes. I also tested my website on different screen sizes (mobile, tablet and desktop) to ensure it appeared in the desired way on different devices.
+I also used https://search.google.com/test/mobile-friendly to test if it's mobile friendly.
 
 ### HTML and CSS Validation
 
