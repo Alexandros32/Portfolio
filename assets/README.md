@@ -97,3 +97,18 @@ I also used https://search.google.com/test/mobile-friendly to test if it's mobil
 I used the [W3C HTML Validator tool](https://validator.w3.org/#validate_by_input) to validate my HTML code.
 I used the [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate my CSS code.
 I used the [Dirty Markup:HTML Beautifier](https://www.10bestdesign.com/dirtymarkup/) to check my HTML code for any mistakes.
+
+## Deployment
+The hosting platform that I've used for my project is GitHub Pages. To deploy my website to GitHub pages, I used the following steps:
+1. Loaded the terminal window in my Visual Studio Code workspace.
+2. Initialised Git using the `git init` command.
+3. Added all files to the Staging area (Git) using the `git add .` command.
+4. Committed the files to Git using the `git commit -m "Initial commit"` command.
+5. Created a new repository in GitHub called 'Portfolio'.
+6. Copied the below code from GitHub into the terminal window in my Visual Studio Code workspace:
+    ```git remote add origin https://github.com/Alexandros32/Portfolio.git```
+    ```git push -u origin master```
+7. Entered my GitHub username and password to push the files from Git to GitHub.
+8. Went into 'Settings' on my repository page in GitHub.
+9. Selected the 'master branch' option under the 'GitHub Pages' section.
+10. Ran several regular commits throughout my project.
