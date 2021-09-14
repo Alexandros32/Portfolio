@@ -85,7 +85,9 @@ I drew my wireframes using Balsamiq.I have done two wireframes for mobile device
 
 ### Testing User Stories
 
-Empty
+I used my user stories and documented each of the steps that each user would need to accomplish what they have stated. Below is the link to the document that contains this information:
+
+
 
 ### Responsive Testing
 
