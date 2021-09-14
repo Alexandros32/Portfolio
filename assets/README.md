@@ -125,3 +125,10 @@ To run my code locally, users can download a local copy of my code to their desk
 2. Click on 'Clone or download'.
 3. Click on 'Download ZIP'.
 4. Once downloaded, extract the zip file's contents and run my website locally.
+
+## Credits
+
+### Acknowledgements
+
+- I received inspiration for my website from my previous mentor site (https://www.wickhamwebdev.com/) and my current mentor site (https://sunnyhebbar.info/) so i thank them  both a lot.
+- A special thanks to my mentor Sunny Hebbar for his guidance and help with my website and also for his help with the README.md file that it was the first time that i was doing one and it was a little bit tricky.
