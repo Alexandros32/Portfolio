@@ -112,3 +112,6 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 8. Went into 'Settings' on my repository page in GitHub.
 9. Selected the 'master branch' option under the 'GitHub Pages' section.
 10. Ran several regular commits throughout my project.
+
+### Repository Link
+https://Alexandros32.github.io/Portfolio/
