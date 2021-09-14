@@ -127,6 +127,7 @@ https://Alexandros32.github.io/Portfolio/
 ### Running Code Locally
 
 To run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
+
 1. Go to [my GitHub repository](https://github.com/Alexandros32/Portfolio.git).
 2. Click on 'Clone or download'.
 3. Click on 'Download ZIP'.
