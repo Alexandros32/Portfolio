@@ -14,7 +14,7 @@ The page is designed to summarise all my academic, professional and personal ach
 
 ### WIREFRAMES
 
-I drew my wireframes using Balsamiq.I have done two wireframes for each page to show my consideration of how to make my website responsive.The links to the files are below:
+I drew my wireframes using Balsamiq.I have done two wireframes for mobile devices and tablets to show my consideration of how to make my website responsive.The links to the files are below:
 
 
 
