@@ -4,7 +4,7 @@ This is a website that I created for my CV and Portfolio. My website will be use
 
 ## UX
 
-The page is designed to summarise all my academic, professional and personal achievements in order to entice or interest a hiring manager when applying for a new job opportunity. At the end of the page there is a direct possibility to contact me
+The page is designed to summarise all my academic, professional and personal achievements in order to entice or interest a hiring manager when applying for a new job opportunity. At the end of the page there is a direct possibility to contact me.
 
 ### USER STORIES
 
@@ -37,6 +37,7 @@ I drew my wireframes using Balsamiq.I have done two wireframes for mobile device
 
 - **About Me** - You can see informations about myself and my job title.
 - **Image Of Me** - You can see an image of me,so you know how i look like. 
+
 #### Skills
 
 - **My Skills** - You can see information about my skills.
@@ -55,7 +56,7 @@ I drew my wireframes using Balsamiq.I have done two wireframes for mobile device
 
 #### Contact
 
-- **Contact Me** - I have my contact details for anyone that is interesting to contact me and also a form to complete and submit if someone wants to contact me.
+- **Contact Me** - I have my contact details for anyone that is interesting to get in touch with me and also a form to complete and submit if someone wants to contact me.
 
 ### Features Left to Implement
 
