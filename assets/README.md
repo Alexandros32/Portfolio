@@ -27,7 +27,7 @@ I drew my wireframes using Balsamiq.I have done two wireframes for mobile device
 - **Hamburger button** - Clicking the hamburger button triggers a full screen overlay menu containing the navigation links to all pages on my website. The user can click the links to navigate to the relevant webpage.
 - **Full screen overlay menu** - The full screen overlay menu contains navigation links which redirect the user to the different pages of my website.
 - **Navigation links** - Allows users to navigate around my website by clicking each navigation link,which redirects them to the relevant webpage.
-- **Submit button** -Clicking the submit button allows users to contact me by completing the form and submitting their details. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
+- **Submit button** - Clicking the submit button allows users to contact me by completing the form and submitting their details. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
 
 #### All Pages (exluding index.html)
 
@@ -36,8 +36,7 @@ I drew my wireframes using Balsamiq.I have done two wireframes for mobile device
 #### About
 
 - **About Me** - You can see informations about myself and my job title.
-- **Image Of Me** - You can see an image of me for further use of my employers. 
-
+- **Image Of Me** - You can see an image of me,so you know how i look like. 
 #### Skills
 
 - **My Skills** - You can see information about my skills.
