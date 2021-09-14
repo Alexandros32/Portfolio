@@ -99,6 +99,7 @@ I used the [W3C CSS Validator tool](https://jigsaw.w3.org/css-validator/#validat
 I used the [Dirty Markup:HTML Beautifier](https://www.10bestdesign.com/dirtymarkup/) to check my HTML code for any mistakes.
 
 ## Deployment
+
 The hosting platform that I've used for my project is GitHub Pages. To deploy my website to GitHub pages, I used the following steps:
 1. Loaded the terminal window in my Visual Studio Code workspace.
 2. Initialised Git using the `git init` command.
@@ -114,4 +115,13 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 10. Ran several regular commits throughout my project.
 
 ### Repository Link
+
 https://Alexandros32.github.io/Portfolio/
+
+### Running Code Locally
+
+To run my code locally, users can download a local copy of my code to their desktop by completing the following steps:
+1. Go to [my GitHub repository](https://github.com/Alexandros32/Portfolio.git).
+2. Click on 'Clone or download'.
+3. Click on 'Download ZIP'.
+4. Once downloaded, extract the zip file's contents and run my website locally.
