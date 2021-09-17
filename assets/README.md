@@ -8,9 +8,7 @@ The page is designed to summarise all my academic, professional and personal ach
 
 ### USER STORIES
 
-- As a potential employer I might also require a cover letter and a completed application form from you.
-- As your professional mentor I would also like to see more projects in your portfolio in the future.
-- As a potential employer I want to be able to see  your social media links  in your CV so that I can learn more about you.
+
 
 ### WIREFRAMES
 
@@ -22,16 +20,12 @@ I drew my wireframes using Balsamiq.I have done two wireframes for mobile device
 
 ### Existing Features
 
-#### All Pages
+#### All Pages (index.html)
 
-- **Hamburger button** - Clicking the hamburger button triggers a full screen overlay menu containing the navigation links to all pages on my website. The user can click the links to navigate to the relevant webpage.
-- **Full screen overlay menu** - The full screen overlay menu contains navigation links which redirect the user to the different pages of my website.
-- **Navigation links** - Allows users to navigate around my website by clicking each navigation link,which redirects them to the relevant webpage.
+- **Hamburger button** - Clicking the hamburger button triggers a dropdown menu containing the navigation links to all pages on my website. The user can click the links to navigate to the relevant webpage.
+- **Navigation links** - Allows users to navigate around my website by clicking each navigation link,which redirects them to the relevant section.
 - **Submit button** - Clicking the submit button allows users to contact me by completing the form and submitting their details. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
 
-#### All Pages (exluding index.html)
-
-- **Submit button** - Clicking the submit button allows users to contact me by completing the form and submitting their details. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
 
 #### About
 
@@ -70,6 +64,8 @@ I drew my wireframes using Balsamiq.I have done two wireframes for mobile device
     - The project uses **HTML5** to create the basic elements and content of my website.
 - [**CSS3**](https://developer.mozilla.org/en-US/docs/Web/CSS)
     - The project uses **CSS3** to add custom styles to the elements and content of my website.
+- [**JavaScript**](https://www.javascript.com/)
+    - The project uses **JavaScript** from Bootstrap which is required to add functionality to some of Bootstrap's components.
 - [**Bootstrap v5.1**](https://getbootstrap.com/)
     - The project uses **Bootstrap v5.1** to add a responsive grid system, prebuilt components and Bootstrap styles to my website, before adding my custom styles.
 - [**Google Fonts**](https://fonts.google.com/)
@@ -120,9 +116,9 @@ The hosting platform that I've used for my project is GitHub Pages. To deploy my
 9. Selected the 'master branch' option under the 'GitHub Pages' section.
 10. Ran several regular commits throughout my project.
 
-### Repository Link
+### Live Site Link
 
-https://Alexandros32.github.io/Portfolio/
+https://alexandros32.github.io/Portfolio/
 
 ### Running Code Locally
 
