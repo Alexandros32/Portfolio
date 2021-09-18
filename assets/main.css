@@ -29,14 +29,23 @@ div.clearfix {
 /* The code has taken from https://css-tricks.com/
 and i have also made some changes myself. */
 
-.card {
+div.card {
 	width: 15rem;
 	background-color: lightgoldenrodyellow;
-	justify-content: center;
+	justify-content:center;
+	align-content: center;
 }
 /* The code has taken from https://css-tricks.com/ */
+div.row.gx-5 {
+	justify-content:center;
+	background-color: lightgoldenrodyellow;
+}
 
-div.row {
+form.row-auto {
+	background-color: lightgoldenrodyellow;
+}
+
+div.row-cols-4 {
 	justify-content: center;
 	background-color: lightgoldenrodyellow;
 }
