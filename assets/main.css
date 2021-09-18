@@ -25,14 +25,14 @@ img {
 div.clearfix {
 	background-color: lightgoldenrodyellow;
 }
-/* The code has taken from https://css-tricks.com/
-and i have also made some changes myself. */
+/* I have write this code myself. */
 
 div.card {
 	width: 15rem;
 	text-align:center;
 	background-color: lightgoldenrodyellow;
 }
+/* I have write this code myself. */
 
 div.card-body {
 	width: 15rem;
