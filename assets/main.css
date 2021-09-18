@@ -30,9 +30,14 @@ and i have also made some changes myself. */
 
 div.card {
 	width: 15rem;
+	text-align:center;
 	background-color: lightgoldenrodyellow;
-	justify-content:center;
-	align-content: center;
+}
+
+div.card-body {
+	width: 15rem;
+	text-align:center;
+	background-color: lightgoldenrodyellow;
 }
 /* I have write this code myself. */
 
@@ -43,6 +48,7 @@ div.row.gx-5 {
 /* I have write this code myself. */
 
 form.row-auto {
+	justify-content: center;
 	background-color: lightgoldenrodyellow;
 }
 /* I have write this code myself. */
