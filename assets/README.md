@@ -55,7 +55,7 @@ I drew my wireframes using Balsamiq.I have done three wireframes for mobile devi
 
 - **Contact Me** - I have my contact details for anyone that is interesting to get in touch with me and also a form to complete and submit if someone wants to contact me.
 
-### Features Left to Implement
+### Features Left To Implement
 
 - **Linkedin** - Once i create a linkedin account i will add it to my CV&Portfolio.
 - **Back To Top Button** - When i learn Javascript i will create a back to top button.
@@ -89,7 +89,7 @@ I drew my wireframes using Balsamiq.I have done three wireframes for mobile devi
 
 I used my user stories and documented each of the steps that each user would need to accomplish what they have stated. Below is the link to the document that contains this information:
 
-- [Testing User Stories] (https://github.com/Alexandros32/Portfolio/blob/master/assets/testing-documents/Testing%20User%20Stories-converted.pdf)
+- [Testing User Stories](https://github.com/Alexandros32/Portfolio/blob/master/assets/testing-documents/Testing%20User%20Stories-converted.pdf)
 
 ### Responsive Testing
 
