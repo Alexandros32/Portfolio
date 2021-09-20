@@ -57,7 +57,10 @@ I drew my wireframes using Balsamiq.I have done three wireframes for mobile devi
 
 ### Features Left to Implement
 
-- **Linkedin** - Once i create a linkedin acount i will add it to my CV&Portfolio.
+- **Linkedin** - Once i create a linkedin account i will add it to my CV&Portfolio.
+- **Back To Top Button** - When i learn Javascript i will create a back to top button.
+- **Submit Button** - I will add further functionality to the 'Submit' button so that it displays an on-screen 'Thank you' message. I will also add functionality for an email to be sent to users to confirm that they have successfully submit their form
+
 
 ## Technologies Used
 
