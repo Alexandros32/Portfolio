@@ -30,7 +30,6 @@ I drew my wireframes using Balsamiq.I have done three wireframes for mobile devi
 - **Navigation links** - Allows users to navigate around my website by clicking each navigation link,which redirects them to the relevant section.
 - **Submit button** - Clicking the submit button allows users to contact me by completing the form and submitting their details. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
 
-
 #### About
 
 - **About Me** - You can see informations about myself and my job title.
@@ -87,7 +86,7 @@ I drew my wireframes using Balsamiq.I have done three wireframes for mobile devi
 
 I used my user stories and documented each of the steps that each user would need to accomplish what they have stated. Below is the link to the document that contains this information:
 
-
+- [Testing User Stories] (https://github.com/Alexandros32/Portfolio/blob/master/assets/testing-documents/Testing%20User%20Stories-converted.pdf)
 
 ### Responsive Testing
 
