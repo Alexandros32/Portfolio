@@ -16,9 +16,9 @@ The page is designed to summarise all my academic, professional and personal ach
 
 I drew my wireframes using Balsamiq.I have done three wireframes for mobile devices,tablets and for pcs-laptops to show my consideration of how to make my website responsive.The links to the files are below:
 
-- [Mobile devices](https://github.com/Alexandros32/Portfolio/blob/master/assets/wireframes/Mobiles%202%20(xl%20and%20sm).pdf)
-- [Tablets ](https://github.com/Alexandros32/Portfolio/blob/master/assets/wireframes/Tablets%203%20(md%2Clg%20and%20xl).pdf)
-- [Pcs and laptops](https://github.com/Alexandros32/Portfolio/blob/master/assets/wireframes/Pcs%2CLaptops%201.pdf)
+- [Mobile devices](https://github.com/Alexandros32/Portfolio/blob/d35d6cea68d1e7f8905a6f3176f32e72d62ecab1/assets/wireframes/Mobile%20Devices%201.pdf)
+- [Tablets ](https://github.com/Alexandros32/Portfolio/blob/d35d6cea68d1e7f8905a6f3176f32e72d62ecab1/assets/wireframes/Tablets%202.pdf)
+- [Pcs and laptops](https://github.com/Alexandros32/Portfolio/blob/d35d6cea68d1e7f8905a6f3176f32e72d62ecab1/assets/wireframes/Pcs,Laptops%203.pdf)
 
 ## Features
 
