@@ -34,11 +34,12 @@ div.card {
 }
 /* I have write this code myself. */
 
-div.card-body {
-	width: 15rem;
+div.row.row-cols-4 {
+	justify-content: center;
 	text-align:center;
 	background-color: lightgoldenrodyellow;
 }
+	
 /* I have write this code myself. */
 
 div.row.gx-5 {
@@ -53,7 +54,7 @@ form.row-auto {
 }
 /* I have write this code myself. */
 
-div.row-cols-4 {
+div.row-auto {
 	justify-content: center;
 	background-color: lightgoldenrodyellow;
 }
