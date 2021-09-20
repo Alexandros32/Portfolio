@@ -89,7 +89,7 @@ I drew my wireframes using Balsamiq.I have done three wireframes for mobile devi
 
 I used my user stories and documented each of the steps that each user would need to accomplish what they have stated. Below is the link to the document that contains this information:
 
-- [Testing User Stories](https://github.com/Alexandros32/Portfolio/blob/master/assets/testing-documents/Testing%20User%20Stories-converted.pdf)
+- [Testing User Stories](https://github.com/Alexandros32/Portfolio/blob/5b668d713d10a6398352750f3b85de1fd3cb101f/assets/testing-documents/Testing%20User%20Stories.pdf)
 
 ### Responsive Testing
 
