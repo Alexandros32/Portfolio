@@ -8,7 +8,9 @@ The page is designed to summarise all my academic, professional and personal ach
 
 ### USER STORIES
 
-
+- As a potential collaboration I would like to contact you for further information:
+- As a potential employer I wanted to see your experience:
+- As a potential employer I wanted to see your skills:
 
 ### WIREFRAMES
 
