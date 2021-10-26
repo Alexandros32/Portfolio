@@ -34,7 +34,7 @@ div.card {
 }
 /* I have write this code myself. */
 
-div.row.row-cols-4 {
+div.row.col-auto {
 	justify-content: center;
 	text-align:center;
 	background-color: lightgoldenrodyellow;
