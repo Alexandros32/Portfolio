@@ -14,7 +14,8 @@ h3,h4 {
 	text-align: center;
 	color: rgb(88, 7, 163);
 }
-
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
 
 @media screen and (min-width: 0px) and (max-width: 991.98px) {
 	h2,h3,h4 {
@@ -28,6 +29,10 @@ body {
 }
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
+h4 {
+
+}	
+
 img {
 	width: 100%;
 	max-width: 400px;
@@ -38,15 +43,23 @@ img {
 
 div.clearfix {
 	background-color: lightgoldenrodyellow;
-	border: 3px solid rgb(163, 219, 228); 
-	padding: 50px;
-}	
+	border: 2px solid rgb(163, 219, 228); 
+	padding: 50px;	
+}
+/* I have write this code myself. */
+
+div.col-12.col-sm-6.col-md-4{
+	border: 1px solid rgb(163, 219, 228); 
+	padding: 10px;
+}
 /* I have write this code myself. */
 
 div.card {
 	width: 15rem;
 	text-align:center;
 	background-color: lightgoldenrodyellow;
+	border: 2px solid rgb(163, 219, 228); 
+	padding: 5px;
 }
 /* I have write this code myself. */
 
