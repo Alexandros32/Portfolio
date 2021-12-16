@@ -115,18 +115,8 @@ div.row.col-auto {
 div.row.gx-5 {
 	justify-content:center;
 	background-color: lightgoldenrodyellow;
-}
-/* I have write this code myself. */
-
-form.row-auto {
-	justify-content: center;
-	background-color: lightgoldenrodyellow;
-}
-/* I have write this code myself. */
-
-div.row-auto {
-	justify-content: center;
-	background-color: lightgoldenrodyellow;
+	border: 2px solid rgb(163, 219, 228); 
+	padding: 5px;
 }
 /* The code has taken from https://www.freecodecamp.org/ 
 and i have also made some changes myself. */
