@@ -5,6 +5,12 @@ and i have also made some changes myself. */
 	position: relative;
 	min-height: 100vh;
 }
+/* The code has taken from Bootstrap 5 
+and i have also made some changes myself. */
+
+#content-wrap {
+	padding-bottom: 2.5rem;
+}
 /* I have write this code myself. */
 
 body {
@@ -13,8 +19,15 @@ body {
 }
 /* The code has taken from Bootstrap 5
 and i have also made some changes myself. */
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgb(103, 38, 160);
+}
 
-h2 {
+.navbar-light .navbar-brand {
+    color: rgb(103, 38, 160);
+}
+
+h2.display-4 {
 	font-family: Uchen serif;
 	font-size: 35px;
 	text-align: center;
@@ -23,29 +36,38 @@ h2 {
 
 h3,h4 {
 	font-family: Uchen serif;
-	font-size: 30px;
+	font-size: 25px;
 	text-align: center;
 	color: rgb(125, 6, 245);
 }
 
 h5,h6 {
 	font-family: Uchen serif;
-	font-size: 30px;
+	font-size: 22px;
 	text-align: center;
 }
 
 p {
 	font-family: Uchen serif;
-	font-size: 30px;
+	font-size: 20px;
 	text-align: center;
-	
 }
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
 
 @media screen and (min-width: 0px) and (max-width: 991.98px) {
-	h2,h3,h4 {
+	h3,h4,h5,h6,p,.navbar-light .navbar-nav .nav-link.active {
 	  font-size: 16px;
+	}
+}
+@media screen and (min-width: 0px) and (max-width: 991.98px) {
+	h2.display-4 {
+	  font-size: 25px;
+	}
+}
+@media screen and (min-width: 0px) and (max-width: 991.98px) {
+	.navbar-light .navbar-brand {
+	  font-size: 18px;
 	}
 }
 /* The code has taken from Bootstrap 5 
@@ -105,12 +127,6 @@ form.row-auto {
 div.row-auto {
 	justify-content: center;
 	background-color: lightgoldenrodyellow;
-}
-/* The code has taken from Bootstrap 5 
-and i have also made some changes myself. */
-
-#content-wrap {
-	padding-bottom: 2.5rem;
 }
 /* The code has taken from https://www.freecodecamp.org/ 
 and i have also made some changes myself. */
