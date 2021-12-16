@@ -9,22 +9,36 @@ and i have also made some changes myself. */
 
 body {
 	background-color: beige;
+	font-style: italic;
 }
 /* The code has taken from Bootstrap 5
 and i have also made some changes myself. */
 
-h2,h3 {
+h2 {
 	font-family: Uchen serif;
 	font-size: 35px;
 	text-align: center;
-	color: rgb(88, 7, 163);
+	color: rgb(178, 39, 243);
 }
 
 h3,h4 {
 	font-family: Uchen serif;
 	font-size: 30px;
 	text-align: center;
-	color: rgb(88, 7, 163);
+	color: rgb(125, 6, 245);
+}
+
+h5,h6 {
+	font-family: Uchen serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+p {
+	font-family: Uchen serif;
+	font-size: 30px;
+	text-align: center;
+	
 }
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
@@ -38,7 +52,6 @@ and i have also made some changes myself. */
 and i have also made some changes myself. */
 
 h4 {
-
 }	
 
 img {
