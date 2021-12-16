@@ -1,3 +1,15 @@
+/* The code has taken from Bootstrap 5 
+and i have also made some changes myself. */
+
+#page-container {
+	position: relative;
+	min-height: 100vh;
+}
+/* I have write this code myself. */
+
+body {
+	background-color: beige;
+}
 /* The code has taken from Bootstrap 5
 and i have also made some changes myself. */
 
@@ -21,14 +33,10 @@ and i have also made some changes myself. */
 	h2,h3,h4 {
 	  font-size: 16px;
 	}
-  }
-/* I have write this code myself. */
-
-body {
-	background-color: beige;
 }
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
+
 h4 {
 
 }	
@@ -55,7 +63,6 @@ div.col-12.col-sm-6.col-md-4{
 /* I have write this code myself. */
 
 div.card {
-	width: 15rem;
 	text-align:center;
 	background-color: lightgoldenrodyellow;
 	border: 2px solid rgb(163, 219, 228); 
@@ -85,13 +92,6 @@ form.row-auto {
 div.row-auto {
 	justify-content: center;
 	background-color: lightgoldenrodyellow;
-}
-/* The code has taken from Bootstrap 5 
-and i have also made some changes myself. */
-
-#page-container {
-	position: relative;
-	min-height: 100vh;
 }
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
