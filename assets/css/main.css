@@ -66,6 +66,48 @@ and i have also made some changes myself. */
 		font-size: 18px;
 	}
 }
+@media (min-width: 767.98px)  {
+	h4 {
+		border: 2px solid rgb(122, 208, 235);
+		padding: 50px;
+		margin-top: 60px;
+		width: 260px;
+		height: 300px;
+		text-align: center;
+	  }
+	}
+	@media (min-width: 991.98px)  {
+		h4 {
+	    border: 2px solid rgb(122, 208, 235);
+		padding: 50px;
+		margin-top: 80px;
+		width: 400px;
+		height: 380px;
+		text-align: center;
+		  }
+		}
+		@media (min-width: 1199.98px) {
+			h4 {
+			border: 2px solid rgb(122, 208, 235);
+			padding: 40px;
+			margin-top: 150px;
+			margin-left: 0px;
+			width: 700px;
+			height: 200px;
+			text-align: center;
+			  }
+			}	
+			@media (min-width: 1200px) and (max-width: 1400px) {
+				h4 {
+				border: 2px solid rgb(122, 208, 235);
+				padding: 50px;
+				margin-top: 90px;
+				margin-left: 70px;
+				width: 400px;
+				height: 380px;
+				text-align: center;
+				  }
+				}		
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
 h4 {
