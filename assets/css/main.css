@@ -107,11 +107,9 @@ and i have also made some changes myself. */
 				height: 380px;
 				text-align: center;
 				  }
-				}		
+				}	
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
-h4 {
-}
 
 img {
 	width: 100%;
@@ -130,7 +128,6 @@ div.clearfix {
 
 div.col-12.col-sm-6.col-md-4 {
 	border: 1px solid rgb(163, 219, 228);
-	padding: 10px;
 }
 /* I have write this code myself. */
 
