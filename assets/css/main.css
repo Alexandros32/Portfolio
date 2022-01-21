@@ -23,10 +23,24 @@ and i have also made some changes myself. */
 	color: rgb(103, 38, 160);
 }
 
+/* I have write this code myself. */
 .navbar-light .navbar-brand {
 	color: rgb(103, 38, 160);
 }
 
+/* I have write this code myself. */
+.my-5 {
+    margin-top: 4rem!important;
+}
+
+/* I have write this code myself. */
+@media screen and (min-width: 0px) and (max-width: 482px) {
+	.my-5 {
+		margin-top: 6rem!important;
+	}
+}
+
+/* I have write this code myself. */
 h2.display-4 {
 	font-family: Uchen serif;
 	font-size: 35px;
@@ -34,6 +48,7 @@ h2.display-4 {
 	color: rgb(178, 39, 243);
 }
 
+/* I have write this code myself. */
 h3, h4 {
 	font-family: Uchen serif;
 	font-size: 25px;
@@ -41,17 +56,20 @@ h3, h4 {
 	color: rgb(125, 6, 245);
 }
 
+/* I have write this code myself. */
 h5, h6 {
 	font-family: Uchen serif;
 	font-size: 22px;
 	text-align: center;
 }
 
+/* I have write this code myself. */
 p {
 	font-family: Uchen serif;
 	font-size: 20px;
 	text-align: center;
 }
+
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
 @media screen and (min-width: 0px) and (max-width: 991.98px) {
