@@ -1,16 +1,18 @@
 # ALEXANDROS CHELIDONIS/CV&PORTFOLIO
 
-This is a website that I created for my CV and Portfolio. My website will be used by future employers to find out more about my skills and experience. My resume presents my work history , skills, and other qualifications. My portfolio gives possible employers a more detailed look at the work that I have done.
+This is a website that I created for my CV and Portfolio.
+My website will be used by future employers to find out more about my skills and experience.My resume presents my work history,skills and other qualifications.
+My portfolio gives possible employers a more detailed look at the work that i have done.
 
 ## UX
 
-The page is designed to summarise all my academic, professional and personal achievements in order to entice or interest a hiring manager when applying for a new job opportunity. At the end of the page there is a direct possibility to contact me.
+The page is designed to summarise all my academic,professional and personal achievements in order to entice or interest a hiring manager when applying for a new job opportunity.At the end of the page there is a direct possibility to contact me.
 
 ### USER STORIES
 
-- As a potential collaboration I would like to contact you for further information:
-- As a potential employer I wanted to see your experience:
-- As a potential employer I wanted to see your skills:
+- As a potential collaborator i would like to contact you for further information:
+- As a potential employer i would like to see your experience:
+- As a potential employer i would like to see your skills:
 
 ### WIREFRAMES
 
