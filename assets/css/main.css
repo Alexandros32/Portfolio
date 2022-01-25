@@ -11,7 +11,7 @@ and i have also made some changes myself. */
 	padding-bottom: 2.5rem;
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 body {
 	background-color: beige;
 	font-style: italic;
@@ -23,12 +23,12 @@ and i have also made some changes myself. */
 	color: rgb(103, 38, 160);
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 .navbar-light .navbar-brand {
 	color: rgb(103, 38, 160);
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 483px) {
 	.navbar-light .navbar-brand {
 		font-size: 13px;
@@ -50,14 +50,14 @@ and i have also made some changes myself. */
 		font-size: 18px;
 	}
 }
-/* I have write this code myself. */
+/* I have written this code myself. */
 @media screen and (min-width: 992px) and (max-width: 1199px) {
 a.navbar-brand {
     margin-right: 2%;
 }
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 991px) {
 ul.navbar-nav {
    border: 1px solid whitesmoke;
@@ -65,19 +65,19 @@ ul.navbar-nav {
 }
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 .my-5 {
 	margin-top: 4rem!important;
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 482px) {
 	.my-5 {
 		margin-top: 6rem!important;
 	}
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 483px){
 	.navbar-toggler-icon {
 		width: 3.5em;
@@ -85,7 +85,7 @@ ul.navbar-nav {
 	}
 	}
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 @media screen and (min-width: 484px) and (max-width: 991px){
 	.navbar-toggler-icon {
 		width: 1.5em;
@@ -93,21 +93,21 @@ ul.navbar-nav {
 	}
 	}
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 483px){
 	.navbar-toggler {
 		font-size: 0.25rem;
 	}
 	}
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 @media screen and (min-width: 484px) and (max-width: 991px){
 .navbar-toggler {
     font-size: 1.25rem;
 }
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 h2.display-4 {
 	font-family: Uchen serif;
 	font-size: 35px;
@@ -131,7 +131,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 h3, h4 {
 	font-family: Uchen serif;
 	font-size: 25px;
@@ -139,14 +139,14 @@ h3, h4 {
 	color: rgb(125, 6, 245);
 }
 
-/* I have write this code myself. */
+/* I have written this code myself. */
 
 h5, h6 {
 	font-family: Uchen serif;
 	font-size: 22px;
 	text-align: center;
 }
-/* I have write this code myself. */
+/* I have written this code myself. */
 p {
 	font-family: Uchen serif;
 	font-size: 20px;
@@ -225,61 +225,81 @@ and i have also made some changes myself. */
 
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
-
 img {
 	width: 100%;
 	max-width: 400px;
 	height: auto;
 	border: 3px solid rgb(122, 208, 235);
 }
-/* I have write this code myself. */
 
+/* I have written this code myself. */
 div.clearfix {
 	background-color: lightgoldenrodyellow;
 	border: 2px solid rgb(163, 219, 228);
 	padding: 50px;
 }
-/* I have write this code myself. */
 
+/* I have written this code myself. */
 div.col-12.col-sm-6.col-md-4 {
 	border: 1px solid rgb(163, 219, 228);
 }
-/* I have write this code myself. */
 
+/* I have written this code myself. */
 div.card {
 	text-align: center;
 	background-color: lightgoldenrodyellow;
 	border: 2px solid rgb(163, 219, 228);
 	padding: 5px;
 }
-/* I have write this code myself. */
 
+/* I have written this code myself. */
 div.row.col-auto {
 	justify-content: center;
 	text-align: center;
 	background-color: lightgoldenrodyellow;
 }
-/* I have write this code myself. */
 
+/* I have written this code myself. */
 div.row.gx-5 {
 	justify-content: center;
 	background-color: lightgoldenrodyellow;
 	border: 1px solid rgb(163, 219, 228);
 	padding: 5px;
 }
-/* I have write this code myself. */
 
+/* I have written this code myself. */
+@media screen and (min-width: 0px) and (max-width: 484px) {
+	div#contact.text-center {
+		font-size:12px;
+	}
+	}
+
+	/* I have written this code myself. */
+	@media screen and (min-width: 485px) and (max-width: 991.98px) {
+		div#contact.text-center {
+			font-size:14px;
+		}
+		}
+	
+/* I have written this code myself. */
+		@media screen and (min-width: 0px) and (max-width: 484px) {	
+		button.btn.btn-primary {
+		padding-right: 150px;
+	}
+}
+
+/* I have written this code myself. */
 .g-5, .gx-5 {
 	--bs-gutter-x: 4rem;
 }
-/* I have write this code myself. */
 
+/* I have written this code myself. */
 .row {
 	--bs-gutter-x: 0rem;
 }
+
 /* The code has taken from https://www.freecodecamp.org/ 
 and i have also made some changes myself. */
-
 #footer {
 	position: absolute;
 	bottom: 0;
