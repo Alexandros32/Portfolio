@@ -1,61 +1,136 @@
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
-
 #page-container {
 	position: relative;
 	min-height: 100vh;
 }
+
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
-
 #content-wrap {
 	padding-bottom: 2.5rem;
 }
-/* I have write this code myself. */
 
+/* I have write this code myself. */
 body {
 	background-color: beige;
 	font-style: italic;
 }
+
 /* The code has taken from Bootstrap 5
 and i have also made some changes myself. */
-
 .navbar-light .navbar-nav .nav-link.active {
 	color: rgb(103, 38, 160);
 }
-/* I have write this code myself. */
 
+/* I have write this code myself. */
 .navbar-light .navbar-brand {
 	color: rgb(103, 38, 160);
 }
-/* I have write this code myself. */
 
+/* I have write this code myself. */
+@media screen and (min-width: 0px) and (max-width: 483px) {
+	.navbar-light .navbar-brand {
+		font-size: 12px;
+	}
+}
+
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
+@media screen and (min-width: 484px) and (max-width: 991.98px) {
+	.navbar-light .navbar-brand {
+		font-size: 16px;
+	}
+}
+
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
+@media screen and (min-width: 992px) and (max-width: 1400px) {
+	.navbar-light .navbar-brand {
+		font-size: 18px;
+	}
+}
+/* I have write this code myself. */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+a.navbar-brand {
+    margin-right: 2%;
+}
+}
+
+/* I have write this code myself. */
+@media screen and (min-width: 0px) and (max-width: 991px) {
+ul.navbar-nav {
+   border: 1px solid whitesmoke;
+   align-items: center;
+}
+}
+
+/* I have write this code myself. */
 .my-5 {
 	margin-top: 4rem!important;
 }
-/* I have write this code myself. */
 
+/* I have write this code myself. */
 @media screen and (min-width: 0px) and (max-width: 482px) {
 	.my-5 {
 		margin-top: 6rem!important;
 	}
 }
-/* I have write this code myself. */
 
+/* I have write this code myself. */
+@media screen and (min-width: 0px) and (max-width: 483px){
+	.navbar-toggler-icon {
+		width: 3.5em;
+		height: 3.5em;
+	}
+	}
+
+/* I have write this code myself. */
+@media screen and (min-width: 484px) and (max-width: 991px){
+	.navbar-toggler-icon {
+		width: 1.5em;
+		height: 1.5em;
+	}
+	}
+
+/* I have write this code myself. */
+@media screen and (min-width: 0px) and (max-width: 483px){
+	.navbar-toggler {
+		font-size: 0.25rem;
+	}
+	}
+
+/* I have write this code myself. */
+@media screen and (min-width: 484px) and (max-width: 991px){
+.navbar-toggler {
+    font-size: 1.25rem;
+}
+}
+
+/* I have write this code myself. */
 h2.display-4 {
 	font-family: Uchen serif;
 	font-size: 35px;
 	text-align: center;
 	color: rgb(178, 39, 243);
 }
-/* I have write this code myself. */
 
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
+@media screen and (min-width: 0px) and (max-width: 991.98px) {
+	h2.display-4 {
+		font-size: 25px;
+	}
+}
+
+/* I have write this code myself. */
 h3, h4 {
 	font-family: Uchen serif;
 	font-size: 25px;
 	text-align: center;
 	color: rgb(125, 6, 245);
 }
+
 /* I have write this code myself. */
 
 h5, h6 {
@@ -64,30 +139,30 @@ h5, h6 {
 	text-align: center;
 }
 /* I have write this code myself. */
-
 p {
 	font-family: Uchen serif;
 	font-size: 20px;
 	text-align: center;
 }
+
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
-
 @media screen and (min-width: 0px) and (max-width: 991.98px) {
 	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
-		font-size: 16px;
+		font-size: 14px;
 	}
 }
-@media screen and (min-width: 0px) and (max-width: 991.98px) {
-	h2.display-4 {
-		font-size: 25px;
+
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
+@media screen and (min-width: 0px) and (max-width: 483px) {
+	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
+		font-size: 10px;
 	}
 }
-@media screen and (min-width: 0px) and (max-width: 991.98px) {
-	.navbar-light .navbar-brand {
-		font-size: 18px;
-	}
-}
+
+
+
 @media (min-width: 767.98px) {
 	h4 {
 		border: 2px solid rgb(122, 208, 235);
