@@ -31,7 +31,7 @@ and i have also made some changes myself. */
 /* I have write this code myself. */
 @media screen and (min-width: 0px) and (max-width: 483px) {
 	.navbar-light .navbar-brand {
-		font-size: 12px;
+		font-size: 13px;
 	}
 }
 
@@ -117,9 +117,17 @@ h2.display-4 {
 
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
-@media screen and (min-width: 0px) and (max-width: 991.98px) {
+@media screen and (min-width: 0px) and (max-width: 484px) {
 	h2.display-4 {
-		font-size: 25px;
+		font-size: 14px;
+	}
+}
+
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
+@media screen and (min-width: 485px) and (max-width: 991.98px) {
+	h2.display-4 {
+		font-size: 18px;
 	}
 }
 
@@ -149,7 +157,7 @@ p {
 and i have also made some changes myself. */
 @media screen and (min-width: 0px) and (max-width: 484px) {
 	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
-		font-size: 10px;
+		font-size: 12px;
 	}
 }
 
@@ -163,7 +171,7 @@ and i have also made some changes myself. */
 
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
-@media screen and (min-width: 484px) and (max-width: 991.98px) {
+@media (min-width: 767.98px) {
 	h4 {
 		border: 2px solid rgb(122, 208, 235);
 		padding: 50px;
@@ -171,9 +179,11 @@ and i have also made some changes myself. */
 		width: 260px;
 		height: 300px;
 		text-align: center;
-		font-size: 15px;
 	}
 }
+
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
 @media (min-width: 991.98px) {
 	h4 {
 		border: 2px solid rgb(122, 208, 235);
@@ -184,6 +194,9 @@ and i have also made some changes myself. */
 		text-align: center;
 	}
 }
+
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
 @media (min-width: 1199.98px) {
 	h4 {
 		border: 2px solid rgb(122, 208, 235);
@@ -195,6 +208,9 @@ and i have also made some changes myself. */
 		text-align: center;
 	}
 }
+
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
 @media (min-width: 1200px) and (max-width: 1400px) {
 	h4 {
 		border: 2px solid rgb(122, 208, 235);
@@ -206,6 +222,7 @@ and i have also made some changes myself. */
 		text-align: center;
 	}
 }
+
 /* The code has taken from Bootstrap 5 
 and i have also made some changes myself. */
 
