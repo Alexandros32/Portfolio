@@ -308,9 +308,62 @@ div.row.gx-5 {
 
 /* The code has taken from https://www.freecodecamp.org/ 
 and i have also made some changes myself. */
+@media (max-width: 310px) {
+#footer {
+	position: absolute;
+	bottom: 50%;
+	width: 65%;
+	height: 1.5rem;
+	text-align: center;
+}
+}
+@media (min-width: 576px) {
 #footer {
 	position: absolute;
 	bottom: 0;
-	width: 82%;
+	width: 90%;
 	height: 1.5rem;
+	text-align: center;
 }
+}
+
+
+@media (min-width: 768px) {
+#footer {
+	position: absolute;
+	bottom: 0;
+	width: 120%;
+	height: 1.5rem;
+	text-align: center;
+}
+}
+
+@media (min-width: 992px) {
+	#footer {
+		position: absolute;
+		bottom: 0;
+		width: 85%;
+		height: 1.5rem;
+		text-align: center;
+	}
+	}
+
+	@media (min-width: 1200px) {
+		#footer {
+			position: absolute;
+			bottom: 0;
+			width: 90%;
+			height: 1.5rem;
+			text-align: center;
+		}
+		}
+
+		@media (min-width: 1400px) {
+			#footer {
+				position: absolute;
+				bottom: 0;
+				width: 85%;
+				height: 1.5rem;
+				text-align: center;
+			}
+			}
