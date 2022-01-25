@@ -147,7 +147,7 @@ p {
 
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
-@media screen and (min-width: 0px) and (max-width: 991.98px) {
+@media screen and (min-width: 484px) and (max-width: 991.98px) {
 	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
 		font-size: 14px;
 	}
