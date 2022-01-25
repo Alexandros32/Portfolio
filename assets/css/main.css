@@ -147,7 +147,15 @@ p {
 
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
-@media screen and (min-width: 484px) and (max-width: 991.98px) {
+@media screen and (min-width: 0px) and (max-width: 484px) {
+	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
+		font-size: 10px;
+	}
+}
+
+/* The code has taken from www.w3schools.com
+and i have also made some changes myself. */
+@media screen and (min-width: 485px) and (max-width: 991.98px) {
 	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
 		font-size: 14px;
 	}
@@ -155,15 +163,7 @@ and i have also made some changes myself. */
 
 /* The code has taken from www.w3schools.com
 and i have also made some changes myself. */
-@media screen and (min-width: 0px) and (max-width: 483px) {
-	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
-		font-size: 10px;
-	}
-}
-
-
-
-@media (min-width: 767.98px) {
+@media screen and (min-width: 484px) and (max-width: 991.98px) {
 	h4 {
 		border: 2px solid rgb(122, 208, 235);
 		padding: 50px;
@@ -171,6 +171,7 @@ and i have also made some changes myself. */
 		width: 260px;
 		height: 300px;
 		text-align: center;
+		font-size: 15px;
 	}
 }
 @media (min-width: 991.98px) {
