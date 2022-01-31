@@ -71,16 +71,23 @@ a.nav-link.active {
 }
 }
 /* I have written this code myself. */
-.my-5 {
+#about {
 	margin-top: 4rem!important;
 }
 
 /* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 482px) {
-	.my-5 {
-		margin-top: 6rem!important;
+#about {
+		margin-top: 4rem!important;
 	}
 }
+
+/* I have written this code myself. */
+@media screen and (min-width: 0px) and (max-width: 363px) {
+	#about {
+			margin-top: 5rem!important;
+		}
+	}
 
 /* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 483px){
@@ -302,7 +309,11 @@ div.row.gx-5 {
 
 /* I have written this code myself. */
 .g-5, .gx-5 {
-	--bs-gutter-x: 4rem;
+	--bs-gutter-x: 4rem!important;
+}
+
+.my-5 {
+    margin-top: 1rem!important;
 }
 
 /* I have written this code myself. */
@@ -365,7 +376,7 @@ and i have also made some changes myself. */
 			text-align: center;
 		}
 		}
-		
+
 /* I have written this code myself. */
 		@media (min-width: 1400px) {
 			#footer {
