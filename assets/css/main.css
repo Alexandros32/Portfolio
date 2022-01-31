@@ -105,9 +105,9 @@ a.nav-link.active {
 	}
 
 /* I have written this code myself. */
-@media screen and (min-width: 484px) and (max-width: 991px){
+@media screen and (min-width: 484px) and (max-width: 991.40px){
 .navbar-toggler {
-    font-size: 1.25rem;
+    font-size: 0.75rem;
 }
 }
 
