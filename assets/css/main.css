@@ -2,13 +2,13 @@
 and i have also made some changes myself. */
 #page-container {
 	position: relative;
-	min-height: 100vh;
+	min-height: 100%;
 }
 
 /* The code has been taken from Bootstrap 5 
 and i have also made some changes myself. */
 #content-wrap {
-	padding-bottom: 1.25rem;
+	padding-bottom: 0rem;
 }
 
 /* I have written this code myself. */
@@ -324,11 +324,9 @@ div.row.gx-5 {
 
 /* The code has been taken from https://www.freecodecamp.org/ 
 and i have also made some changes myself. */
-@media (max-width: 310px) {
 #footer {
-    margin: 50%;
+	margin-top: 50px;
+	bottom: 0rem;
 	width: 100%;
-	height: 1.5rem;
 	text-align: center;
-}
 }
