@@ -1,11 +1,11 @@
-/* The code has taken from Bootstrap 5 
+/* The code has been taken from Bootstrap 5 
 and i have also made some changes myself. */
 #page-container {
 	position: relative;
 	min-height: 100vh;
 }
 
-/* The code has taken from Bootstrap 5 
+/* The code has been taken from Bootstrap 5 
 and i have also made some changes myself. */
 #content-wrap {
 	padding-bottom: 2.5rem;
@@ -17,7 +17,7 @@ body {
 	font-style: italic;
 }
 
-/* The code has taken from Bootstrap 5
+/* The code has been taken from Bootstrap 5
 and i have also made some changes myself. */
 .navbar-light .navbar-nav .nav-link.active {
 	color: rgb(103, 38, 160);
@@ -35,7 +35,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media screen and (min-width: 484px) and (max-width: 991.98px) {
 	.navbar-light .navbar-brand {
@@ -43,7 +43,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media screen and (min-width: 992px) and (max-width: 1400px) {
 	.navbar-light .navbar-brand {
@@ -57,7 +57,8 @@ a.navbar-brand {
 }
 }
 
-/* I have written this code myself. */
+/* The idea has been taken from https://youtu.be/mh36Kts-wX8
+and i have also made some changes myself. */
 @media screen and (min-width: 0px) and (max-width: 991.40px) {
 a.nav-link.active {
 	list-style-type: none;
@@ -119,7 +120,7 @@ h2.display-4 {
 	color: rgb(178, 39, 243);
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media screen and (min-width: 0px) and (max-width: 484px) {
 	h2.display-4 {
@@ -127,7 +128,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media screen and (min-width: 485px) and (max-width: 991.98px) {
 	h2.display-4 {
@@ -144,7 +145,6 @@ h3, h4 {
 }
 
 /* I have written this code myself. */
-
 h5, h6 {
 	font-family: Uchen serif;
 	font-size: 22px;
@@ -157,7 +157,7 @@ p {
 	text-align: center;
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media screen and (min-width: 0px) and (max-width: 484px) {
 	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
@@ -165,7 +165,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media screen and (min-width: 485px) and (max-width: 991.98px) {
 	h3, h4, h5, h6, p, .navbar-light .navbar-nav .nav-link.active {
@@ -173,7 +173,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media (min-width: 767.98px) {
 	h4 {
@@ -186,7 +186,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media (min-width: 991.98px) {
 	h4 {
@@ -199,7 +199,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media (min-width: 1199.98px) {
 	h4 {
@@ -213,7 +213,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from www.w3schools.com
+/* The code has been taken from www.w3schools.com
 and i have also made some changes myself. */
 @media (min-width: 1200px) and (max-width: 1400px) {
 	h4 {
@@ -227,7 +227,7 @@ and i have also made some changes myself. */
 	}
 }
 
-/* The code has taken from Bootstrap 5 
+/* The code has been taken from Bootstrap 5 
 and i have also made some changes myself. */
 img {
 	width: 100%;
@@ -310,7 +310,7 @@ div.row.gx-5 {
 	--bs-gutter-x: 0rem;
 }
 
-/* The code has taken from https://www.freecodecamp.org/ 
+/* The code has been taken from https://www.freecodecamp.org/ 
 and i have also made some changes myself. */
 @media (max-width: 310px) {
 #footer {
@@ -321,6 +321,8 @@ and i have also made some changes myself. */
 	text-align: center;
 }
 }
+
+/* I have written this code myself. */
 @media (min-width: 576px) {
 #footer {
 	position: absolute;
@@ -331,7 +333,7 @@ and i have also made some changes myself. */
 }
 }
 
-
+/* I have written this code myself. */
 @media (min-width: 768px) {
 #footer {
 	position: absolute;
@@ -342,6 +344,7 @@ and i have also made some changes myself. */
 }
 }
 
+/* I have written this code myself. */
 @media (min-width: 992px) {
 	#footer {
 		position: absolute;
@@ -352,6 +355,7 @@ and i have also made some changes myself. */
 	}
 	}
 
+/* I have written this code myself. */
 	@media (min-width: 1200px) {
 		#footer {
 			position: absolute;
@@ -361,7 +365,8 @@ and i have also made some changes myself. */
 			text-align: center;
 		}
 		}
-
+		
+/* I have written this code myself. */
 		@media (min-width: 1400px) {
 			#footer {
 				position: absolute;
