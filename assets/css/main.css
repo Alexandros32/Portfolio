@@ -1,14 +1,9 @@
-/* The code has been taken from Bootstrap 5 
+/* The code has been taken https://dev.to/nehalahmadkhan 
 and i have also made some changes myself. */
 #page-container {
-	position: relative;
 	min-height: 100%;
-}
-
-/* The code has been taken from Bootstrap 5 
-and i have also made some changes myself. */
-#content-wrap {
-	padding-bottom: 2.5rem;
+    display: flex;
+    flex-direction: column;
 }
 
 /* I have written this code myself. */
@@ -322,11 +317,11 @@ div.row.gx-5 {
 	--bs-gutter-x: 0rem;
 }
 
-/* The code has been taken from https://www.freecodecamp.org/ 
+/* The code has been taken from https://dev.to/nehalahmadkhan
 and i have also made some changes myself. */
 #footer {
-	margin-top: 50px;
-	bottom: 0rem;
+	margin-top: 30px;
+	margin-bottom: -5rem!important;
 	width: 100%;
 	text-align: center;
 }
