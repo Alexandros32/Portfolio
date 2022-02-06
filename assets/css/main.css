@@ -2,8 +2,8 @@
 and i have also made some changes myself. */
 #page-container {
 	min-height: 100%;
-    display: flex;
-    flex-direction: column;
+	display: flex;
+	flex-direction: column;
 }
 
 /* I have written this code myself. */
@@ -45,26 +45,28 @@ and i have also made some changes myself. */
 		font-size: 18px;
 	}
 }
+
 /* I have written this code myself. */
 @media screen and (min-width: 992px) and (max-width: 1199px) {
-a.navbar-brand {
-    margin-right: 2%;
-}
+	a.navbar-brand {
+		margin-right: 2%;
+	}
 }
 
 /* The idea has been taken from https://youtu.be/mh36Kts-wX8
 and i have also made some changes myself. */
 @media screen and (min-width: 0px) and (max-width: 991.40px) {
-a.nav-link.active {
-	list-style-type: none;
-	width: 100%;
-	text-align: center;
-	padding-top: 10px;
-    display:block;
-	border-top: 1px solid rgb(17, 17, 17);
-	border: 1px solid rgb(17, 17, 17);
+	a.nav-link.active {
+		list-style-type: none;
+		width: 100%;
+		text-align: center;
+		padding-top: 10px;
+		display: block;
+		border-top: 1px solid rgb(17, 17, 17);
+		border: 1px solid rgb(17, 17, 17);
+	}
 }
-}
+
 /* I have written this code myself. */
 #about {
 	margin-top: 4rem!important;
@@ -72,7 +74,7 @@ a.nav-link.active {
 
 /* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 482px) {
-#about {
+	#about {
 		margin-top: 4rem!important;
 	}
 }
@@ -80,38 +82,38 @@ a.nav-link.active {
 /* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 363px) {
 	#about {
-			margin-top: 5rem!important;
-		}
+		margin-top: 5rem!important;
 	}
+}
 
 /* I have written this code myself. */
-@media screen and (min-width: 0px) and (max-width: 483px){
+@media screen and (min-width: 0px) and (max-width: 483px) {
 	.navbar-toggler-icon {
 		width: 3.5em;
 		height: 3.5em;
 	}
-	}
+}
 
 /* I have written this code myself. */
-@media screen and (min-width: 484px) and (max-width: 991px){
+@media screen and (min-width: 484px) and (max-width: 991px) {
 	.navbar-toggler-icon {
 		width: 1.5em;
 		height: 1.5em;
 	}
-	}
+}
 
 /* I have written this code myself. */
-@media screen and (min-width: 0px) and (max-width: 483px){
+@media screen and (min-width: 0px) and (max-width: 483px) {
 	.navbar-toggler {
 		font-size: 0.25rem;
 	}
-	}
+}
 
 /* I have written this code myself. */
-@media screen and (min-width: 484px) and (max-width: 991.40px){
-.navbar-toggler {
-    font-size: 0.75rem;
-}
+@media screen and (min-width: 484px) and (max-width: 991.40px) {
+	.navbar-toggler {
+		font-size: 0.75rem;
+	}
 }
 
 /* I have written this code myself. */
@@ -152,6 +154,7 @@ h5, h6 {
 	font-size: 22px;
 	text-align: center;
 }
+
 /* I have written this code myself. */
 p {
 	font-family: Uchen serif;
@@ -276,30 +279,30 @@ div.row.gx-5 {
 /* I have written this code myself. */
 @media screen and (min-width: 0px) and (max-width: 484px) {
 	div#contact.text-center {
-		font-size:12px;
-	}
-	}
-
-	/* I have written this code myself. */
-	@media screen and (min-width: 485px) and (max-width: 991.98px) {
-		div#contact.text-center {
-			font-size:14px;
-		}
-		}
-	
-/* I have written this code myself. */
-		@media screen and (min-width: 0px) and (max-width: 484px) {	
-		button.btn.btn-primary {
-			font-size:12px;
-			margin-top: 10px;
+		font-size: 12px;
 	}
 }
 
 /* I have written this code myself. */
-@media screen and (min-width: 485px) and (max-width: 991.98px) {	
+@media screen and (min-width: 485px) and (max-width: 991.98px) {
+	div#contact.text-center {
+		font-size: 14px;
+	}
+}
+
+/* I have written this code myself. */
+@media screen and (min-width: 0px) and (max-width: 484px) {
 	button.btn.btn-primary {
-		font-size:14px;	
+		font-size: 12px;
+		margin-top: 10px;
+	}
 }
+
+/* I have written this code myself. */
+@media screen and (min-width: 485px) and (max-width: 991.98px) {
+	button.btn.btn-primary {
+		font-size: 14px;
+	}
 }
 
 /* I have written this code myself. */
@@ -307,8 +310,9 @@ div.row.gx-5 {
 	--bs-gutter-x: 4rem;
 }
 
+/* I have written this code myself. */
 .my-5 {
-    margin-top: 1rem!important;
+	margin-top: 1rem!important;
 	margin-bottom: 1rem!important;
 }
 
